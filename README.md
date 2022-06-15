@@ -5,4 +5,4 @@ This is a node.js application that watches a specified folder on the desktop, an
 - [x] Google authentication
 - [x] Build the uploading logic   
 - [x] Watch folder
-- [ ] build desktop application using Electrone.js
+- [ ] Build desktop application using Electrone.js
